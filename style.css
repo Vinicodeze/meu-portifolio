@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1, h2{
+    color: darkgoldenrod;
+}
+section{
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    display: inline-block;
+    width: 80%;
+}
+iframe{
+    border-radius: 10px;
+}
